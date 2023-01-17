@@ -1,0 +1,23 @@
+header {
+    background-color: darkcyan;
+    color: aliceblue;
+    height: 17vh;
+    width: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 40px;
+}
+
+.name {
+    font-size: x-large;
+}
+
+.image img {
+    border: 3px solid greenyellow;
+    height: 85px;
+    width: 150px;
+    border-radius: 50%;
+}

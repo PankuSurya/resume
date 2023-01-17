@@ -1,0 +1,36 @@
+main {
+    height: 80vh;
+    width: auto;
+    display: flex;
+    font-size: 15px;
+}
+
+.box1 {
+    background-color: grey;
+    color: aliceblue;
+    width: 40vw;
+    padding: 15px 40px;
+}
+/* .material-icons{
+    height: 10px;
+    width: 20px;
+} */
+.icons ul{
+    list-style: none;
+}
+.box2 {
+    background-color: whitesmoke;
+    padding: 15px 40px;
+}
+
+.new {
+    border-top: 1px dotted whitesmoke;
+}
+
+.b1 {
+    display: flex;
+}
+.qualify{
+    display: flex;
+    justify-content: space-around;
+}
